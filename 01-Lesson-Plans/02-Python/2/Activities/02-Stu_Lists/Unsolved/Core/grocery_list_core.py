@@ -7,7 +7,7 @@ organize her grocery shopping list.
 """
 
 # @TODO: Create a list of groceries
-groceries = [water, butter, eggs, apples, cinnamon, sugar, milk]
+groceries = ['water', 'butter', 'eggs', 'apples', 'cinnamon', 'sugar', 'milk']
 print(groceries)
 
 
