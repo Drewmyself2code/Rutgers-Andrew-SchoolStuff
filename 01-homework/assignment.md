@@ -1,5 +1,7 @@
 # TITLE
 
+----
+
 ## Overview and Origin
 
 * Name of company
