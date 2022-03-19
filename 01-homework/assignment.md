@@ -1,8 +1,8 @@
-# All your Coinbase are belong to us
+# All your Coinbase are belong to us ![](https://cache2.allpostersimages.com/p/MED/82/8226/NGOA300Z/posters/all-your-base-are-belong-to-us.jpg)
 ----
 ## Overview and Origin
 
-* Coinbase (insert coinbase logo)
+* Coinbase (insert coinbase logo) 
 
 * Incorporated June 20, 2012
 
