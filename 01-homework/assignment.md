@@ -38,7 +38,7 @@ From what I've learned, Coinbase offers a debit card that gives 4% cash back rew
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+* Coinbase seems to be lacking in terms of security when compared to Gemini, as well as in fees when compared to the lower fees that other companies such as eToro has.
 
 
 ## Recommendations
