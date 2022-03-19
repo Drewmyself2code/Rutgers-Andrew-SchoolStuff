@@ -29,7 +29,7 @@ From what I've learned, Coinbase offers a debit card that gives 4% cash back rew
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-* What are the other major companies in this domain?
+* Other major companies include Gemini, eToro, Coinmama and more.
 
 
 ## Results
