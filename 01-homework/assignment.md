@@ -1,26 +1,24 @@
-# TITLE
-
+# All your Coinbase are belong to us
 ----
-
 ## Overview and Origin
 
-* Name of company
+* Coinbase (insert coinbase logo)
 
-* When was the company incorporated?
+* Incorporated June 20, 2012
 
-* Who are the founders of the company?
+* Founded by Brian Armstrong & Fred Ehrsam (insert their pictures below?)
 
-* How did the idea for the company (or project) come about?
+* The company was founded on the basis that anyone, anywhere could be able to easily and securely send and receive Bitcoin.
 
-* How is the company funded? How much funding have they received?
+* Coinbase has raised a total of $547.3M in funding over 16 rounds. Their latest funding was raised on Oct 1, 2020 from a Venture - Series Unknown round. Coinbase is registered under the ticker NASDAQ:COIN. Their stock opened with $381.00 in its APRIL 14, 2021 IPO. Coinbase is funded by 65 investors. Pegasus Tech Ventures and Paradigm are among the most recent investors.
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Coinbase hopes to make trading in cryptocurrency accessible to everyone with over sixty eight million customers to date.
+From what I've learned, Coinbase offers a debit card that gives 4% cash back rewards in the crypto of your choice for every purchase you make wherever Visa cards are accepted. It also provides sweepstakes where you have opportunity to potentially win millions of dollars for having an account and entering for a chance to win.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -45,10 +43,15 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* My advice to the company would be to offer a safe place to store NFT's or even provide a hard wallet or even the chance to get a hard wallet at a discounted price to store NFT's. Furthermore, to create a space where trading of NFT's amongst members of Coinbase can be done simply even at auction without the need for gas fees; to create a space where people can create their own NFT's with the basis of a social platform where each can be sold at auction.
 
-* Why do you think that offering this product or service would benefit the company?
+* This would create a new revenue stream for the company as well as create incentive for people to want to join Coinbase thus creating more subscribers and give them a sense of supplemental income through the creation of their own NFT's or even collection of other's NFT's to create personal assets.
 
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+## Sources
+
+https://www.crunchbase.com/organization/coinbase/company_financials
