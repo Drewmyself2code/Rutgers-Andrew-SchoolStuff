@@ -8,7 +8,7 @@
 
 * Founded by Brian Armstrong & Fred Ehrsam (insert their pictures below?)
 
-* The company was founded on the basis that anyone, anywhere could be able to easily and securely send and receive Bitcoin.
+* The company was founded on the basis that anyone, anywhere could be able to easily and securely trade Bitcoin.
 
 * Coinbase has raised a total of $547.3M in funding over 16 rounds. Their latest funding was raised on Oct 1, 2020 from a Venture - Series Unknown round. Coinbase is registered under the ticker NASDAQ:COIN. Their stock opened with $381.00 in its APRIL 14, 2021 IPO. Coinbase is funded by 65 investors. Pegasus Tech Ventures and Paradigm are among the most recent investors.
 
