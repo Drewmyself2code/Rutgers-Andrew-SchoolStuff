@@ -44,7 +44,9 @@ From what I've learned, Coinbase offers a debit card that gives 4% cash back rew
 ## Recommendations
 
 * My advice to the company would be to offer a safe place to store NFT's or even provide a hard wallet or even the chance to get a hard wallet at a discounted price to store NFT's. Furthermore, to create a space where trading of NFT's amongst members of Coinbase can be done simply even at auction without the need for gas fees; to create a space where people can create their own NFT's with the basis of a social platform where each can be sold at auction.
+
 ![](https://lh3.googleusercontent.com/btEMfdIqiR-FId5y2JUcViYzX402eGCbIzuwu8jLguTIO-3WrTeB_Wsfhdf2sH7G_2rEZq4C6nxx4h2s9O8lBhRbHZ6tBOU8D_yW=s128)
+
 * This would create a new revenue stream for the company as well as create incentive for people to want to join Coinbase thus creating more subscribers and give them a sense of supplemental income through the creation of their own NFT's or even collection of other's NFT's to create personal assets.
 
 * What technologies would this additional product or service utilize?
