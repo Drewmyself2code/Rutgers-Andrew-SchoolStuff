@@ -59,8 +59,13 @@ From what I've learned, Coinbase offers a debit card that gives 4% cash back rew
 ## Sources
 ----
 https://www.crunchbase.com/organization/coinbase/company_financials
+
 https://www.bitcoinmarketjournal.com/coinbase-problem/?msclkid=52ff0f39a7d411ecbd71198c11353b2d
+
 https://www.coinbase.com/products
+
 https://www.buybitcoinworldwide.com/cryptocurrency-statistics/?msclkid=b40e0125a7d111ec9433cb8bd016a59e
+
 https://techjury.net/blog/cryptocurrency-statistics
+
 https://www.benzinga.com/fintech/19/06/13911172/fintech-analytics-the-top-7-metrics-every-fintech-company-should-monitor?msclkid=67229325a7d811ec9a1ccf760bc402ca
